@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://togel-plat-mobil.github.io/sitemap.xml
